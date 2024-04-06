@@ -64,13 +64,13 @@
     {
       "id": "3",
       "profile": {
-        "src": "./src/images/profile/profile_2.png",
+        "src": "./src/images/profile/profile_4.png",
         "name": "Lana Rose",
         "position": "Somewhere",
         "time": "15 MINUTES AGO"
       },
       "picture": {
-        "img_src": "./src/images/post/post_5.jpeg"
+        "img_src": "./src/images/post/post_7.jpeg"
       },
       "comment": {
         "img_src_list": [
@@ -79,21 +79,21 @@
           "./src/images/profile/profile_7.png"
         ],
         "first_people_name": "Ernest Achiever",
-        "like_peoples_number": 2400,
+        "like_peoples_number": 2323,
         "comment_info": "Lana Rose Lorem ipsum dolor sit quisquam eius. #lifestyle",
-        "view_number": 3400
+        "view_number": 3473
       }
     },
     {
       "id": "4",
       "profile": {
-        "src": "./src/images/profile/profile_2.png",
+        "src": "./src/images/profile/profile_5.png",
         "name": "Lana Rose",
         "position": "Somewhere",
         "time": "15 MINUTES AGO"
       },
       "picture": {
-        "img_src": "./src/images/post/post_5.jpeg"
+        "img_src": "./src/images/post/post_8.jpeg"
       },
       "comment": {
         "img_src_list": [
@@ -102,9 +102,9 @@
           "./src/images/profile/profile_7.png"
         ],
         "first_people_name": "Ernest Achiever",
-        "like_peoples_number": 2400,
+        "like_peoples_number": 2323,
         "comment_info": "Lana Rose Lorem ipsum dolor sit quisquam eius. #lifestyle",
-        "view_number": 3400
+        "view_number": 3473
       }
     }
   ],
